@@ -1,7 +1,6 @@
 - 👋 Bonjour, je m'appelle Madaga Gueye
-- 👀 je suis intéressé par les technologies de developpement tel que React.js, Symfony et .net .
-- 🌱 Actuellement étudiant à l'école Digital Campus en alternance bachelor 2e année en developpement web.
-- 💞️ Je souhaiterais intégré une entreprise dans le domaine du digital en alterance.
+- 👀 Je suis développeur d'application mobile cross-plateform Flutter junior.
+- Actuellement je suis en recherche d'une entreprise pour un contrat en cdd ou cdi dans le domaine de l'IT.
 - 📫 Pour me contatcer voici mes coordonnées amathgueye95@gmail.com - 06.58.18.30.50
 
 <!---
