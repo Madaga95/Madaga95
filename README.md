@@ -1,6 +1,6 @@
 - 👋 Bonjour, je m'appelle Madaga Gueye
-- 👀 Je suis développeur back-end en Nodejs.
-- Actuellement je suis en recherche d'une entreprise pour un contrat en cdd ou cdi dans le domaine de l'IT.
+- 👀 Je suis développeur C#/Xamarin.
+- Actuellement je suis en recherche d'une entreprise pour un contrat en cdd ou cdi dans le domaine du développement mobile.
 - 📫 Pour me contatcer voici mes coordonnées amathgueye95@gmail.com - 06.58.18.30.50
 
 <!---
